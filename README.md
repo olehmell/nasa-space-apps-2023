@@ -67,6 +67,8 @@ The system takes a scientist or project's description and score, cleans the text
 7. Text Matching: Identify best matches based on similarity scores.
 8. Explanation using LLM: Provide context on why each match was selected.
 
+MVP matching script: [code](https://send.com)
+
 
 ### Reduce joining friction for new scientist
 New scientists often encounter barriers when trying to secure funding and collaborate on research projects. They face the daunting task of navigating through numerous grant sources, each with its own platform and application process. Additionally, these emerging scientists might not have an established reputation or sufficient "score" within the scientific community, making it challenging to join ongoing projects. Moreover, grant organizations often struggle with visibility, with their grant opportunities getting lost amidst the myriad of sources.
@@ -80,6 +82,42 @@ Drawing inspiration from the open-source community, the platform introduces the 
 
 ## Future improvements
 
-### Open Sciense Graph based on blockchain
-### Zero-Knowledge proof for linking science's achievements with profile
+### Open Science Graph based on Blockchain
+Blockchain technology offers an immutable and transparent way to store and verify scientific contributions. We plan to develop an Open Science Graph that will record key milestones in a scientist's career, thereby enhancing credibility and trust within the community. 
+
+### Zero-Knowledge Proof for Linking Science's Achievements with Profile
+Privacy is a major concern in academic circles. With the incorporation of Zero-Knowledge Proofs, scientists can validate their credentials and achievements without revealing sensitive information. This enables a secure and private way to establish credibility. We are looking for [PolygonID](https://polygon.technology/polygon-id) 
+
 ### Generic Score
+The current scoring system desogn is splited by platforms. We aim to introduce a more generic scoring metric that can be widely applicable across various scientific disciplines and types of contributions.
+
+## Referenses
+https://spotintelligence.com/2022/12/19/text-similarity-python/#1_Text_similarity_with_NLTK
+
+https://www.crossref.org/documentation/retrieve-metadata/rest-api/
+
+https://support.datacite.org/docs/api
+
+https://api.base-search.net
+
+https://dev.elsevier.com/sc_apis.html
+
+https://up-for-grabs.net/#/
+
+https://github.com/showcases/great-for-new-contributors
+
+https://goodfirstissue.dev/
+
+https://nationaltoday.com/free-open-source-software-month/
+
+https://scientificandmedical.net/events/
+
+https://www.nasa.gov/missions/station/open-source-science-opportunities/
+
+https://www.kickstarter.com/pages/science 
+
+https://www.zooniverse.org/talk/18
+
+https://zooniverse.github.io/panoptes/?http#list-all-projects
+
+https://scistarter.org/
