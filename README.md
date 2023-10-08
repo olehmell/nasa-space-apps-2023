@@ -67,7 +67,7 @@ The system takes a scientist or project's description and score, cleans the text
 7. Text Matching: Identify best matches based on similarity scores.
 8. Explanation using LLM: Provide context on why each match was selected.
 
-MVP matching script: [code](https://send.com)
+MVP matching script: [code](https://github.com/olehmell/nasa-space-apps-2023/blob/main/main.py)
 
 
 ### Reduce joining friction for new scientist
