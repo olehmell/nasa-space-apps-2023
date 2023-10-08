@@ -1,2 +1,4 @@
-# nasa-space-apps-2023
-A hackathon challenge "A marketplace for Open Sciense"
+# NASA SPACE APP CHALLANGE 2023
+
+## Team: NASA HUB, Kyiv location
+
