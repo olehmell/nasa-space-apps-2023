@@ -91,7 +91,7 @@ Privacy is a major concern in academic circles. With the incorporation of Zero-K
 ### Generic Score
 The current scoring system desogn is splited by platforms. We aim to introduce a more generic scoring metric that can be widely applicable across various scientific disciplines and types of contributions.
 
-## Referenses
+## References
 https://spotintelligence.com/2022/12/19/text-similarity-python/#1_Text_similarity_with_NLTK
 
 https://www.crossref.org/documentation/retrieve-metadata/rest-api/
